@@ -1,0 +1,157 @@
+word,base,person,amount,imperfective,concrete,gender,mood,meaning,tense
+# идти,идти,,,true,true,,,to walk,
+иду,идти,1,Singular,true,true,,Indicative,I walk,Present
+идёшь,идти,2,Singular,true,true,,Indicative,you walk,Present
+идёт,идти,3,Singular,true,true,,Indicative,he/she/it walks,Present
+идём,идти,1,Plural,true,true,,Indicative,we walk,Present
+идёте,идти,2,Plural,true,true,,Indicative,you walk,Present
+идут,идти,3,Plural,true,true,,Indicative,they walk,Present
+иди,идти,2,Singular,true,true,,Imperative,walk!,
+идите,идти,2,Plural,true,true,,Imperative,walk!,
+шёл,идти,,Singular,true,true,Masculine,Indicative,he walked,Past
+шла,идти,,Singular,true,true,Feminine,Indicative,she walked,Past
+шло,идти,,Singular,true,true,Neutral,Indicative,it walked,Past
+шли,идти,,Plural,true,true,,Indicative,they walked,Past
+пойти,идти,,,false,true,,,to walk,
+пойду,идти,1,Singular,false,true,,Indicative,I will walk,Future
+пойдёшь,идти,2,Singular,false,true,,Indicative,you will walk,Future
+пойдёт,идти,3,Singular,false,true,,Indicative,he/she/it will walk,Future
+пойдём,идти,1,Plural,false,true,,Indicative,we will walk,Future
+пойдёте,идти,2,Plural,false,true,,Indicative,you will walk,Future
+пойдут,идти,3,Plural,false,true,,Indicative,they will walk,Future
+пойди,идти,2,Singular,false,true,,Imperative,walk!,
+пойдите,идти,2,Plural,false,true,,Imperative,walk!,
+пошёл,идти,,Singular,false,true,Masculine,Indicative,he walked,Past
+пошла,идти,,Singular,false,true,Feminine,Indicative,she walked,Past
+пошло,идти,,Singular,false,true,Neutral,Indicative,it walked,Past
+пошли,идти,,Plural,false,true,,Indicative,they walked,Past
+ходить,идти,,,true,false,,,to walk,
+хожу,идти,1,Singular,true,false,,Indicative,I walk,Present
+ходишь,идти,2,Singular,true,false,,Indicative,you walk,Present
+ходит,идти,3,Singular,true,false,,Indicative,he/she/it walks,Present
+ходим,идти,1,Plural,true,false,,Indicative,we walk,Present
+ходите,идти,2,Plural,true,false,,Indicative,you walk,Present
+ходят,идти,3,Plural,true,false,,Indicative,they walk,Present
+ходи,идти,2,Singular,true,false,,Imperative,walk!,
+ходите,идти,2,Plural,true,false,,Imperative,walk!,
+ходил,идти,,Singular,true,false,Masculine,Indicative,he walked,Past
+ходила,идти,,Singular,true,false,Feminine,Indicative,she walked,Past
+ходило,идти,,Singular,true,false,Neutral,Indicative,it walked,Past
+ходили,идти,,Plural,true,false,,Indicative,they walked,Past
+сходить,идти,,,false,false,,,to walk,
+схожу,идти,1,Singular,false,false,,Indicative,I will walk,Future
+сходишь,идти,2,Singular,false,false,,Indicative,you will walk,Future
+сходит,идти,3,Singular,false,false,,Indicative,he/she/it will walk,Future
+сходим,идти,1,Plural,false,false,,Indicative,we will walk,Future
+сходите,идти,2,Plural,false,false,,Indicative,you will walk,Future
+сходят,идти,3,Plural,false,false,,Indicative,they will walk,Future
+сходи,идти,2,Singular,false,false,,Imperative,walk!,
+сходите,идти,2,Plural,false,false,,Imperative,walk!,
+сходил,идти,,Singular,false,false,Masculine,Indicative,he walked,Past
+сходила,идти,,Singular,false,false,Feminine,Indicative,she walked,Past
+сходило,идти,,Singular,false,false,Neutral,Indicative,it walked,Past
+сходили,идти,,Plural,false,false,,Indicative,they walked,Past
+вести,вести,,,true,true,,,to drive,
+веду,вести,1,Singular,true,true,,Indicative,I drive,Present
+ведёшь,вести,2,Singular,true,true,,Indicative,you drive,Present
+ведёт,вести,3,Singular,true,true,,Indicative,he/she/it drives,Present
+ведём,вести,1,Plural,true,true,,Indicative,we drive,Present
+ведёте,вести,2,Plural,true,true,,Indicative,you drive,Present
+ведут,вести,3,Plural,true,true,,Indicative,they drive,Present
+веди,вести,2,Singular,true,true,,Imperative,drive!,
+ведите,вести,2,Plural,true,true,,Imperative,drive!,
+вёл,вести,,Singular,true,true,Masculine,Indicative,he drove,Past
+вела,вести,,Singular,true,true,Feminine,Indicative,she drove,Past
+вело,вести,,Singular,true,true,Neutral,Indicative,it drove,Past
+вели,вести,,Plural,true,true,,Indicative,they drove,Past
+повести,вести,,,false,true,,,to drive,
+поведу,вести,1,Singular,false,true,,Indicative,I drive,Future
+поведёшь,вести,2,Singular,false,true,,Indicative,you drive,Future
+поведёт,вести,3,Singular,false,true,,Indicative,he/she/it drives,Future
+поведём,вести,1,Plural,false,true,,Indicative,we drive,Future
+поведёте,вести,2,Plural,false,true,,Indicative,you drive,Future
+поведут,вести,3,Plural,false,true,,Indicative,they drive,Future
+поведи,вести,2,Singular,false,true,,Imperative,drive!,
+поведите,вести,2,Plural,false,true,,Imperative,drive!,
+повёл,вести,,Singular,false,true,Masculine,Indicative,he drove,Past
+повела,вести,,Singular,false,true,Feminine,Indicative,she drove,Past
+повело,вести,,Singular,false,true,Neutral,Indicative,it drove,Past
+повели,вести,,Plural,false,true,,Indicative,they drove,Past
+водить,вести,,,true,false,,,to drive around,
+вожу,вести,1,Singular,true,false,,Indicative,I drive around,Present
+водишь,вести,2,Singular,true,false,,Indicative,you drive around,Present
+водит,вести,3,Singular,true,false,,Indicative,he/she/it drives around,Present
+водим,вести,1,Plural,true,false,,Indicative,we drive around,Present
+водите,вести,2,Plural,true,false,,Indicative,you drive around,Present
+водят,вести,3,Plural,true,false,,Indicative,they drive around,Present
+води,вести,2,Singular,true,false,,Imperative,drive around!,
+водите,вести,2,Plural,true,false,,Imperative,drive around!,
+водил,вести,,Singular,true,false,Masculine,Indicative,he drove around,Past
+водила,вести,,Singular,true,false,Feminine,Indicative,she drove around,Past
+водило,вести,,Singular,true,false,Neutral,Indicative,it drove around,Past
+водили,вести,,Plural,true,false,,Indicative,they drove around,Past
+поводить,вести,,,false,false,,,to drive around,
+повожу,вести,1,Singular,false,false,,Indicative,I drive around,Future
+поводишь,вести,2,Singular,false,false,,Indicative,you drive around,Future
+поводит,вести,3,Singular,false,false,,Indicative,he/she/it drives around,Future
+поводим,вести,1,Plural,false,false,,Indicative,we drive around,Future
+поводите,вести,2,Plural,false,false,,Indicative,you drive around,Future
+поводят,вести,3,Plural,false,false,,Indicative,they drive around,Future
+поводи,вести,2,Singular,false,false,,Imperative,drive around!,
+поводите,вести,2,Plural,false,false,,Imperative,drive around!,
+поводил,вести,,Singular,false,false,Masculine,Indicative,he drove around,Past
+поводила,вести,,Singular,false,false,Feminine,Indicative,she drove around,Past
+поводило,вести,,Singular,false,false,Neutral,Indicative,it drove around,Past
+поводили,вести,,Plural,false,false,,Indicative,they drove around,Past
+ехать,ехать,,,true,true,,,to go by vehicle,
+еду,ехать,1,Singular,true,true,,Indicative,I go by vehicle,Present
+едешь,ехать,2,Singular,true,true,,Indicative,you go by vehicle,Present
+едет,ехать,3,Singular,true,true,,Indicative,he/she/it goes by vehicle,Present
+едем,ехать,1,Plural,true,true,,Indicative,we go by vehicle,Present
+едете,ехать,2,Plural,true,true,,Indicative,you go by vehicle,Present
+едут,ехать,3,Plural,true,true,,Indicative,they go by vehicle,Present
+езжай,ехать,2,Singular,true,true,,Imperative,go!,
+езжайте,ехать,2,Plural,true,true,,Imperative,go!,
+ехал,ехать,,Singular,true,true,Masculine,Indicative,he went by vehicle,Past
+ехала,ехать,,Singular,true,true,Feminine,Indicative,she went by vehicle,Past
+ехало,ехать,,Singular,true,true,Neutral,Indicative,it went by vehicle,Past
+ехали,ехать,,Plural,true,true,,Indicative,they went by vehicle,Past
+поехать,ехать,,,false,true,,,to go by vehicle,
+поеду,ехать,1,Singular,false,true,,Indicative,I go by vehicle,Future
+поедешь,ехать,2,Singular,false,true,,Indicative,you go by vehicle,Future
+поедет,ехать,3,Singular,false,true,,Indicative,he/she/it goes by vehicle,Future
+поедем,ехать,1,Plural,false,true,,Indicative,we go by vehicle,Future
+поедете,ехать,2,Plural,false,true,,Indicative,you go by vehicle,Future
+поедут,ехать,3,Plural,false,true,,Indicative,they go by vehicle,Future
+поезжай,ехать,2,Singular,false,true,,Imperative,go!,
+поезжайте,ехать,2,Plural,false,true,,Imperative,go!,
+поехал,ехать,,Singular,false,true,Masculine,Indicative,he went by vehicle,Past
+поехала,ехать,,Singular,false,true,Feminine,Indicative,she went by vehicle,Past
+поехало,ехать,,Singular,false,true,Neutral,Indicative,it went by vehicle,Past
+поехали,ехать,,Plural,false,true,,Indicative,they went by vehicle,Past
+ездить,ехать,,,true,false,,,to go by vehicle,
+езжу,ехать,1,Singular,true,false,,Indicative,I go by vehicle,Present
+ездишь,ехать,2,Singular,true,false,,Indicative,you go by vehicle,Present
+ездит,ехать,3,Singular,true,false,,Indicative,he/she/it goes by vehicle,Present
+ездим,ехать,1,Plural,true,false,,Indicative,we go by vehicle,Present
+ездите,ехать,2,Plural,true,false,,Indicative,you go by vehicle,Present
+ездят,ехать,3,Plural,true,false,,Indicative,they go by vehicle,Present
+езди,ехать,2,Singular,true,false,,Imperative,go!,
+ездите,ехать,2,Plural,true,false,,Imperative,go!,
+ездил,ехать,,Singular,true,false,Masculine,Indicative,he went by vehicle,Past
+ездила,ехать,,Singular,true,false,Feminine,Indicative,she went by vehicle,Past
+ездило,ехать,,Singular,true,false,Neutral,Indicative,it went by vehicle,Past
+ездили,ехать,,Plural,true,false,,Indicative,they went by vehicle,Past
+поездить,ехать,,,false,false,,,to go by vehicle,
+поезжу,ехать,1,Singular,false,false,,Indicative,I go by vehicle,Future
+поездишь,ехать,2,Singular,false,false,,Indicative,you go by vehicle,Future
+поездит,ехать,3,Singular,false,false,,Indicative,he/she/it goes by vehicle,Future
+поездим,ехать,1,Plural,false,false,,Indicative,we go by vehicle,Future
+поездите,ехать,2,Plural,false,false,,Indicative,you go by vehicle,Future
+поездят,ехать,3,Plural,false,false,,Indicative,they go by vehicle,Future
+поезди,ехать,2,Singular,false,false,,Imperative,go!,
+поездите,ехать,2,Plural,false,false,,Imperative,go!,
+поездил,ехать,,Singular,false,false,Masculine,Indicative,he went by vehicle,Past
+поездила,ехать,,Singular,false,false,Feminine,Indicative,she went by vehicle,Past
+поездило,ехать,,Singular,false,false,Neutral,Indicative,it went by vehicle,Past
+поездили,ехать,,Plural,false,false,,Indicative,they went by vehicle,Past

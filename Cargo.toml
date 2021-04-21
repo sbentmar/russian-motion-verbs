@@ -1,0 +1,16 @@
+[package]
+name = "motionverbs"
+version = "0.1.0"
+authors = ["Sebastian Bentmar Holgersson <sbentmar@gmail.com>"]
+edition = "2018"
+
+[profile.release]
+opt-level = 'z'  # Optimize for size.
+lto = true
+codegen-units = 1
+panic = 'abort'
+
+[dependencies]
+csv = "1.1"
+serde = { version = "1.0.125", features = ["derive"] }
+rand = "0.8.3"
